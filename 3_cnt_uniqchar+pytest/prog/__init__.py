@@ -1,0 +1,1 @@
+from .main import amount_of_unique_char
